@@ -1,3 +1,1 @@
-"# malunek" 
-"# malunek" 
-"# malunek" 
+Prosta aplikacja do rysowania, ma opcję zapisu i nie tylko
